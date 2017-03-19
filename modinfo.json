@@ -1,16 +1,16 @@
 {
 	"name": "Expanded Religions",
-	"description": "",
+	"description": "This mod seeks to expand the religion system by both adding to the deities represented in-game and adding to the ways that players can interact with the religion system.\r\n\r\nThe current build (0.1.1) currently only adds one statue of Pteor with an encumbrance buff when activated.",
 	"changeNote": "",
 	"author": "",
 	"authorUrl": "",
-	"versionMajor": 1,
-	"versionMinor": 0,
-	"versionBuild": 0,
+	"versionMajor": 0,
+	"versionMinor": 1,
+	"versionBuild": 1,
 	"bRequiresLoadOnStartup": false,
-	"steamPublishedFileId": "",
+	"steamPublishedFileId": "884956403",
 	"steamVisibility": 2,
 	"folderName": "ExpandedReligions",
-	"revisionNumber": 0,
-	"snapshotId": 0
+	"revisionNumber": 26291,
+	"snapshotId": 10819
 }
